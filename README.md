@@ -22,7 +22,7 @@ To use the Form Auto-Drafting Library, follow these steps:
 2. Include the library in your HTML file:
 
 ```html
-<script src="form-auto-drafting-library.js"></script>
+<script src="formdraft.js"></script>
 ```
 
 ### Usage
